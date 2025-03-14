@@ -1,0 +1,97 @@
+,Country,Age_Group,year,val,Cancer_Type
+552,United States,35-50,2021,4.09,Breast
+553,United States,35-50,2021,788.97,Breast
+554,United States,35-50,2021,6.07,Breast
+555,United States,35-50,2021,1299.05,Breast
+556,United States,35-50,2021,14.04,Breast
+557,United States,35-50,2021,1942.56,Breast
+558,United States,35-50,2021,603.36,Breast
+559,United States,35-50,2021,52869.4,Breast
+576,India,35-50,2021,39.47,Breast
+577,India,35-50,2021,4311.39,Breast
+578,India,35-50,2021,74.23,Breast
+579,India,35-50,2021,6448.57,Breast
+580,India,35-50,2021,91.5,Breast
+581,India,35-50,2021,8216.66,Breast
+582,India,35-50,2021,1938.49,Breast
+583,India,35-50,2021,78878.68,Breast
+600,India,35-50,2020,38.93,Breast
+601,India,35-50,2020,4241.07,Breast
+602,India,35-50,2020,71.41,Breast
+603,India,35-50,2020,6301.89,Breast
+604,India,35-50,2020,90.14,Breast
+605,India,35-50,2020,8015.66,Breast
+606,India,35-50,2020,1895.32,Breast
+607,India,35-50,2020,77001.49,Breast
+624,United States,35-50,2020,4.2,Breast
+625,United States,35-50,2020,824.25,Breast
+626,United States,35-50,2020,6.08,Breast
+627,United States,35-50,2020,1290.8,Breast
+628,United States,35-50,2020,14.58,Breast
+629,United States,35-50,2020,1999.73,Breast
+630,United States,35-50,2020,589.95,Breast
+631,United States,35-50,2020,51658.73,Breast
+816,United States,35-50,2020,421.49,Breast
+817,United States,35-50,2020,62508.2,Breast
+818,United States,35-50,2021,412.67,Breast
+819,United States,35-50,2021,60157.08,Breast
+836,United States,35-50,2020,629.0,Breast
+837,United States,35-50,2020,108079.29,Breast
+838,United States,35-50,2021,631.08,Breast
+839,United States,35-50,2021,109233.36,Breast
+856,United States,35-50,2020,1338.03,Breast
+857,United States,35-50,2020,162434.55,Breast
+858,United States,35-50,2021,1293.21,Breast
+859,United States,35-50,2021,158324.86,Breast
+876,United States,35-50,2020,33129.67,Breast
+877,United States,35-50,2020,2906811.9,Breast
+878,United States,35-50,2021,33815.62,Breast
+879,United States,35-50,2021,2965311.73,Breast
+996,India,35-50,2020,680.09,Breast
+997,India,35-50,2020,88097.35,Breast
+998,India,35-50,2021,699.7,Breast
+999,India,35-50,2021,91045.33,Breast
+1016,India,35-50,2020,1241.19,Breast
+1017,India,35-50,2020,133933.47,Breast
+1018,India,35-50,2021,1310.2,Breast
+1019,India,35-50,2021,139806.79,Breast
+1036,India,35-50,2020,1428.69,Breast
+1037,India,35-50,2020,160409.36,Breast
+1038,India,35-50,2021,1471.8,Breast
+1039,India,35-50,2021,167471.96,Breast
+1056,India,35-50,2020,20244.61,Breast
+1057,India,35-50,2020,1198448.06,Breast
+1058,India,35-50,2021,20979.57,Breast
+1059,India,35-50,2021,1246835.83,Breast
+1456,United States,35-50,2020,46.3,Breast
+1457,United States,35-50,2020,7072.96,Breast
+1458,United States,35-50,2021,45.14,Breast
+1459,United States,35-50,2021,6795.7,Breast
+1476,United States,35-50,2020,65.88,Breast
+1477,United States,35-50,2020,12003.99,Breast
+1478,United States,35-50,2021,65.84,Breast
+1479,United States,35-50,2021,12121.29,Breast
+1496,United States,35-50,2020,146.08,Breast
+1497,United States,35-50,2020,17294.17,Breast
+1498,United States,35-50,2021,140.84,Breast
+1499,United States,35-50,2021,16854.71,Breast
+1516,United States,35-50,2020,3303.99,Breast
+1517,United States,35-50,2020,262706.11,Breast
+1518,United States,35-50,2021,3375.24,Breast
+1519,United States,35-50,2021,269012.27,Breast
+1776,India,35-50,2020,85.56,Breast
+1777,India,35-50,2020,10981.17,Breast
+1778,India,35-50,2021,88.07,Breast
+1779,India,35-50,2021,11354.71,Breast
+1796,India,35-50,2020,155.47,Breast
+1797,India,35-50,2020,16731.57,Breast
+1798,India,35-50,2021,164.34,Breast
+1799,India,35-50,2021,17470.17,Breast
+1816,India,35-50,2020,185.4,Breast
+1817,India,35-50,2020,19797.99,Breast
+1818,India,35-50,2021,191.1,Breast
+1819,India,35-50,2021,20687.8,Breast
+1836,India,35-50,2020,3002.28,Breast
+1837,India,35-50,2020,150089.11,Breast
+1838,India,35-50,2021,3111.32,Breast
+1839,India,35-50,2021,156160.16,Breast
